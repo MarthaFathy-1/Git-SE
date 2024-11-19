@@ -15,7 +15,6 @@ Rock, Paper, Scissors is a simple game where:
 1-**Players:** The game supports:
   -Player vs. Player.
   -Player vs. Computer.
-  
 2-**Choices:** Players choose one of:
   -Rock
   -Paper
